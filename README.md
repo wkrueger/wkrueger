@@ -1,1 +1,1 @@
-<img src="readme_svg_test.svg" width="800"/>
+<img src="banner.svg" width="800"/>
