@@ -1,2 +1,2 @@
 
-Generalist web dev. Main: Node, typescript, python.
+Generalist web dev. Main: Front-end, typescript, node, python.
