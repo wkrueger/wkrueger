@@ -1,4 +1,4 @@
 
-Generalist web dev. Main: Front-end, typescript, node, python.
+Generalist web dev. Most xp: TypeScript (frontend/backend), Python.
 
 [github.io](https://wkrueger.github.io)
